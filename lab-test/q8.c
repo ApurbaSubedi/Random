@@ -11,3 +11,4 @@ int n, sum=0;
   printf("Sum of squares of first %d natural numbers = %d",n, sum);
   return 0;
 }
+
